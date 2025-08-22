@@ -24,3 +24,16 @@ In **Make-To-Order** and **Custom production environments**, the schedule is oft
    - Order lateness/tardiness
 
 - Objective: **Minimise weighted tardiness + Setup costs** 
+
+---
+
+## 🧑‍🦽‍➡️ Technologies used
+- Python 3.13 > PuLP library
+- Visual Studio Code
+- Basics of coding
+
+---
+## 🧦 Requirements
+- Concepts of Production Scheduling
+- Knowledge on prompt engineering
+- Basics of coding
